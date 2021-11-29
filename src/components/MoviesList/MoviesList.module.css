@@ -1,0 +1,13 @@
+.moviesList {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 1200px;
+  margin: 0 auto;
+  padding-left: 0;
+}
+
+.movieItem {
+  list-style: none;
+  margin: 10px;
+}

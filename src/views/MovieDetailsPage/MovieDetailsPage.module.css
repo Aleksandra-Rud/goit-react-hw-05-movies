@@ -1,0 +1,34 @@
+.button {
+  display: block;
+  background-color: grey;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  padding: 8px;
+  border-radius: 5px;
+}
+
+.block {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 50px;
+}
+
+.title {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.textOV {
+  width: 850px;
+  margin-left: 20px;
+  font-size: 20px;
+}
+
+.link {
+  list-style: none;
+  text-decoration: none;
+}
+
+.activeLink {
+  color: blue;
+}
